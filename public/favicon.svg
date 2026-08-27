@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="#171717" stroke="#FF7A00" stroke-width="2"/>
+  <!-- Eskiva K Glyph -->
+  <path d="M22 16 H30 V29 L41 16 H50 L37 31 L51 48 H41 L29 34 V48 H22 Z" fill="#FF7A00"/>
+</svg>

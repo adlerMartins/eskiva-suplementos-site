@@ -1,0 +1,13 @@
+# robots.txt for https://eskiva-suplementos.site/
+User-agent: *
+Allow: /
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Sitemap
+Sitemap: https://eskiva-suplementos.site/sitemap.xml

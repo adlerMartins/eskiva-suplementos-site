@@ -1,0 +1,6 @@
+{
+  "name": "Eskiva Suplementos",
+  "description": "Site institucional e comercial de alta performance da Eskiva Suplementos, com catálogo de produtos, história de Zé Eskiva, artigos educativos, FAQ e integração SEO Rank Math.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
